@@ -10,7 +10,7 @@ I'm a passionate **Front-End Developer** with a deep focus on crafting sleek, re
 
 ## About Me
 
-- Over **4 years** of hands-on experience in building dynamic web applications.
+- Over **2.5 years** of hands-on experience in building dynamic web applications.
 - Expert in writing clean, efficient, and scalable code using **HTML, CSS, and JavaScript**.
 - Strong eye for design and UX with a commitment to accessibility and performance.
 - Continuously learning and pushing the limits of front-end development.
