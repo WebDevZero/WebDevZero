@@ -19,5 +19,5 @@ I'm a passionate **Front-End Developer** with a deep focus on crafting sleek, re
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Tools**: Git, GitHub, VS Code, Chrome DevTools
-- **Workflow**: Mobile-first design, Responsive development, Cross-browser compatibility
+- **Workflow**: Adaptive design, Responsive development, Cross-browser compatibility
 
