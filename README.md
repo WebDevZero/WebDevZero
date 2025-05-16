@@ -23,7 +23,7 @@ I'm a passionate **Front-End Developer** with a deep focus on crafting sleek, re
 
   ## Currently Learning
 
-I'm currently focused on **Backend Development**, including:
+Currently, I'm expanding my skills by diving into **Backend Development**. My focus includes:
 
 - **Languages:** JavaScript (Node.js)
 - **Frameworks:** Express.js
