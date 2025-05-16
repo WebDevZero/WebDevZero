@@ -21,3 +21,13 @@ I'm a passionate **Front-End Developer** with a deep focus on crafting sleek, re
 - **Tools**: Git, GitHub, VS Code, Chrome DevTools
 - **Workflow**: Adaptive design, Responsive development, Cross-browser compatibility
 
+  ## Currently Learning
+
+I'm currently focused on **Backend Development**, including:
+
+- **Languages:** JavaScript (Node.js)
+- **Frameworks:** Express.js
+- **Databases:** MongoDB
+- **Concepts:** REST APIs, Authentication, Error Handling  
+- **Tools:** Git, VS Code
+
