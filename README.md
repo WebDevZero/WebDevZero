@@ -45,6 +45,7 @@ Currently, I'm expanding my skills by learning **Backend Development**. My focus
 Here are some of my projects:
 
 [AuthrazeAPI](https://github.com/WebDevZero/AuthrazeAPI) - Message board backend with simple user authentification.<br>
+[Lightdom.js](https://github.com/WebDevZero/Lightdom.js) - A lightweight JavaScript frontend framework built from scratch.
 
 
 
