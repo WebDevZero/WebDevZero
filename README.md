@@ -40,11 +40,6 @@ Currently, I'm expanding my skills by learning **Backend Development**. My focus
 - **Concepts:** REST APIs, Authentication, Error Handling  
 - **Tools:** Git, VS Code
 
-- ## Projects
-
-Here are some of my projects:
-
-[Lightdom.js](https://github.com/WebDevZero/Lightdom.js) - A lightweight JavaScript frontend framework built from scratch.<br>.
 
 
 
